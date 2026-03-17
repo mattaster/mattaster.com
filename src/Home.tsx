@@ -50,7 +50,7 @@ export default function Home() {
             </section>
 
             <section id="services" className="section">
-                <h2 className="section-title animate-on-scroll">Our Expertise</h2>
+                <h2 className="section-title animate-on-scroll">My Expertise</h2>
                 <div className="grid">
                     <div className="glass-card feature animate-on-scroll">
                         <div className="icon">📈</div>
@@ -105,7 +105,7 @@ export default function Home() {
                     <div className="glass-card expand animate-on-scroll" style={{ transitionDelay: '100ms' }}>
                         <h3>🛡️ Property & Casualty Insurance</h3>
                         <ul>
-                            <li>Over 10 years of insurance experience</li>
+                            <li>Over 15 years of insurance experience</li>
                             <li>Auto and Home P&C Insurance (7 of the top 10 carriers)</li>
                             <li>Underwritten product insurance</li>
                             <li>Over 5 years of Pet Insurance experience</li>
