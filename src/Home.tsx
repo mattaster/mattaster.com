@@ -123,14 +123,14 @@ export default function Home() {
                         <p>Served as the primary marketing consultant</p>
                     </div>
                     <div className="metric-item animate-on-scroll" style={{ transitionDelay: '100ms' }}>
-                        <div className="metric-number">$840k</div>
+                        <div className="metric-number">$8.4m</div>
                         <div className="metric-label">In New Pipeline</div>
-                        <p>Achieved a 4% increase in annual recurring revenue for new commitments</p>
+                        <p>Achieved a 13% increase in annual recurring revenue for new commitments</p>
                     </div>
                     <div className="metric-item animate-on-scroll" style={{ transitionDelay: '200ms' }}>
                         <div className="metric-number">3x</div>
                         <div className="metric-label">Growth Rate</div>
-                        <p>Increased average order value by 7% and tripled business unit growth</p>
+                        <p>Increased average order value and tripled business unit growth</p>
                     </div>
                 </div>
             </section>
